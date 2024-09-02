@@ -1,0 +1,4 @@
+sou.info
+*.log
+log/
+*.class
